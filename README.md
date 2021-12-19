@@ -3,7 +3,6 @@
 
 
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-<img align="right" src = "https://www.ilo-madagascar.com/wp-content/uploads/2020/09/digital-marketing-1-2.gif">
 
 - 🔭 I’m currently working on **Machine learning and deep learning**
 
